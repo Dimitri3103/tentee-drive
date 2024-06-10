@@ -5,7 +5,7 @@ import { GoogleOAuthProvider } from "@react-oauth/google";
 export const metadata: Metadata = {
   title: {
     default: "Tentee Drive",
-    template: "%s - ",
+    template: "%s - Gestion de Google Drive",
   },
   description: "",
 };
